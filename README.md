@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @saurabhKrOO7
-- 👀 I’m interested in Coding in different languages
-- 🌱 I’m currently learning Object oriented programming using JAVA
-- 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me email - saurabhkr44002211@gmail.com  linkedIn id - https://www.linkedin.com/in/saurabh-kumar-004298216
+# 👋 Hi, I'm Saurabh Kumar
 
-<!---
-saurabhKrOO7/saurabhKrOO7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Profession & Current Role:**  
+Student & Web Developer
+
+**Top Skills & Technologies:**  
+- Java, C++  
+- ReactJS, ExpressJS, NodeJS  
+- MySQL, MongoDB  
+- HTML, CSS, JavaScript  
+- REST API  
+- Operating System Concepts  
+- OOPS Concepts  
+- DBMS, DSA
+
+**Favorite Project:**  
+- Product Rental Management (**RentEasy**)
+
+---
+
+## 📫 Connect with me
+
+- [LinkedIn](https://in.linkedin.com/in/saurabh-kumar-004298216)
+- [Instagram](https://www.instagram.com/_saurabhk07/)
+
+---
+
+<!--
+Feel free to reach out for collaboration, project ideas, or just to connect!
+-->
